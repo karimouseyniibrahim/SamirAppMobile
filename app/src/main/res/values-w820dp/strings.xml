@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">PVC_DW</string>
+
+    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
+    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
+    <string name="home">Accueil</string>
+    <string name="projects">Mes projets</string>
+    <string name="profile">Mon profile</string>
+    <string name="price">Paramètres du prix</string>
+    <string name="settings">Paramètres</string>
+    <string name="other">Autres</string>
+    <string name="signout">Se déconnecter</string>
+    <string name="about">A propos</string>
+
+    <string name="add_project">Nouveau projet</string>
+    <string name="list_model">Modèles</string>
+    <string name="exit">Quitter</string>
+
+    <string name="description">Description</string>
+
+    <string name="save">Enregistrer</string>
+
+    <string name="username">Nom utilisateur</string>
+    <string name="email">Mail</string>
+    <string name="pwd">Mot de passe</string>
+    <string name="confpwd">Confirmer le mot de passe</string>
+    <string name="question">Choisir une question</string>
+    <string name="myquestion">Choisir votre question</string>
+    <string name="answers">reponse....</string>
+    <string name="valider">valider</string>
+    <string name="createcompte">Creation un compte</string>
+    <string name="titleconnexion">Se connecter</string>
+    <string name="titleforget">Réinitialiser le mot de passe</string>
+    <string name="btnconnexion">Connexion</string>
+    <string name="write">Ecrire Tags</string>
+    <string name="read">Lire Tags</string>
+    <string name="btnreinitialise">Reinitialiser</string>
+    <string name="forgetpwd">Mot de passe oublier ?</string>
+    <string name="pwdfind">je me souviens ?</string>
+
+    <array name="listequestion">
+        <item>First item</item>
+        <item>Second item</item>
+        <item>{dropdown_disabled}Disabled item</item>
+        <item>{dropdown_header}Dropdown header</item>
+        <item>Fourth item</item>
+        <item>Fifth item</item>
+        <item>{dropdown_separator}</item>
+        <item>Separated item</item>
+        <item>Item 9</item>
+        <item>Item 10</item>
+        <item>Item 11</item>
+        <item>Item 12</item>
+        <item>Item 13</item>
+        <item>Item 14</item>
+        <item>Item 15</item>
+        <item>Item 16</item>
+        <item>Item 17</item>
+        <item>Item 18</item>
+        <item>Item 19</item>
+        <item>Item 20</item>
+    </array>
+
+</resources>
