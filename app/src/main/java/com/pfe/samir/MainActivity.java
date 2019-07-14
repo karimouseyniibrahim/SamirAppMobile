@@ -15,13 +15,10 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
-
 import com.beardedhen.androidbootstrap.BootstrapButton;
 import com.beardedhen.androidbootstrap.BootstrapEditText;
-
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-
 
 public class MainActivity extends AppCompatActivity {
     public static final String ERROR_DETECTED = "No NFC tag detected!";
